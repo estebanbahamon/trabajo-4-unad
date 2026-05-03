@@ -1,0 +1,9 @@
+2026-05-02 20:09:18.673137 - Validación: El nombre no puede estar vacío.
+2026-05-02 20:09:18.673671 - Validación: El documento debe ser numérico.
+2026-05-02 20:09:18.674150 - Días de alquiler inválidos.
+2026-05-02 20:09:18.674566 - Reserva confirmada para Esteban Bahamon
+2026-05-02 20:09:18.675035 - Pago exitoso: $150000.00 por Reserva de Sala por 3 horas
+2026-05-02 20:09:18.675525 - ERROR EN PAGO: No se puede pagar una reserva pendiente.
+2026-05-02 20:09:18.675890 - Reserva confirmada para Esteban Bahamon
+2026-05-02 20:09:18.676435 - Pago exitoso: $120000.00 por Asesoría Nivel: especializada
+2026-05-02 20:09:18.676887 - La reserva requiere un cliente válido.
